@@ -6,6 +6,7 @@ WIDTH = 600
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
 pygame.display.set_caption("A* Path Finding Algorithm")
 
+
 RED = (250, 0, 0)
 GREEN = (0, 240, 0)
 BLUE = (0, 0, 250)
