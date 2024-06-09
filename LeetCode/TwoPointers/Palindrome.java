@@ -1,4 +1,4 @@
-package ArraysAndHashing;
+package TwoPointers;
 
 public class Palindrome {
     public boolean isPalindrome(int x) {

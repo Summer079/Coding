@@ -1,4 +1,4 @@
-package All_File;
+package ArraysAndHashing;
 
 class ListNode {
     int val;
@@ -33,7 +33,7 @@ class Solution {
     }
 }
 
-public class Main {
+public class AddTwoNumbers {
     public static void main(String[] args) {
         // Example usage
         ListNode l1 = new ListNode(2);
