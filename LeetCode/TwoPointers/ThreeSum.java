@@ -19,8 +19,8 @@ class ThreeSum {
             int target = -nums[i]; 
             
             //{-2,   -2,	-2,	-1,	-1,	-1,	0,	0,	0,	1,	1,	1}
-       	    //  ^	  ^										    ^
-       	    //  i	  j											k
+       	    //  ^     ^										        ^
+       	    //  i     j										        k
             
             int left = i + 1;
             int right = nums.length - 1;
